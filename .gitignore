@@ -1,0 +1,20 @@
+# Окружение и кэш Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Сборка PyInstaller
+build/
+dist/
+
+# Локальные файлы
+.DS_Store
+.claude/
+.env
+
+# Старые версии и черновики, которые не входят в проект
+app_backup.py
+app_fixed.py
+app_ui.py
+/icon.png
